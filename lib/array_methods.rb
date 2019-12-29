@@ -8,14 +8,12 @@ end
 
 def using_sort(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.sort
-  return array
+  return array.sort
 end
 
 def using_reverse(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.reverse
-  return array
+  return array.reverse
 end
 
 def using_first(array)
